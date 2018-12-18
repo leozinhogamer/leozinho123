@@ -1,0 +1,6 @@
+C:\Users\leozz\Documents\Nitrox\Harmony\Harmony\bin\Debug\0Harmony.dll
+C:\Users\leozz\Documents\Nitrox\Harmony\Harmony\bin\Debug\0Harmony.pdb
+C:\Users\leozz\Documents\Nitrox\Harmony\Harmony\obj\Debug\Harmony.csprojAssemblyReference.cache
+C:\Users\leozz\Documents\Nitrox\Harmony\Harmony\obj\Debug\Harmony.csproj.CoreCompileInputs.cache
+C:\Users\leozz\Documents\Nitrox\Harmony\Harmony\obj\Debug\0Harmony.dll
+C:\Users\leozz\Documents\Nitrox\Harmony\Harmony\obj\Debug\0Harmony.pdb
